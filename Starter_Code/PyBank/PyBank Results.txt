@@ -1,0 +1,40 @@
+(base)
+NORCALWASTE+JGonzalez3@Recology_Johnn MINGW64 ~/Documents/DataBCampWorkHere/03-Python/3/Challenge/Starter_Code
+$ cd main.py
+(base)
+NORCALWASTE+JGonzalez3@Recology_Johnn MINGW64 ~/Documents/DataBCampWorkHere/03-Python/3/Challenge/Starter_Code/main.py
+$ python read main.py
+C:\Users\JGonzalez3\AppData\Local\anaconda3\python.exe: can't open file 'C:\\Users\\JGonzalez3\\Documents\\DataBCampWorkHere\\03-Python\\3\\Challenge\\Starter_Code\\main.py\\read': [Errno 2] No such file or directory
+(base)
+NORCALWASTE+JGonzalez3@Recology_Johnn MINGW64 ~/Documents/DataBCampWorkHere/03-Python/3/Challenge/Starter_Code/main.py
+$ apt-get install tree
+bash: apt-get: command not found
+(base)
+NORCALWASTE+JGonzalez3@Recology_Johnn MINGW64 ~/Documents/DataBCampWorkHere/03-Python/3/Challenge/Starter_Code/main.py
+$ apt-install tree
+bash: apt-install: command not found
+(base)
+NORCALWASTE+JGonzalez3@Recology_Johnn MINGW64 ~/Documents/DataBCampWorkHere/03-Python/3/Challenge/Starter_Code/main.py
+$ tree
+bash: tree: command not found
+(base)
+NORCALWASTE+JGonzalez3@Recology_Johnn MINGW64 ~/Documents/DataBCampWorkHere/03-Python/3/Challenge/Starter_Code/main.py
+$ python main.py
+Traceback (most recent call last):
+  File "C:\Users\JGonzalez3\Documents\DataBCampWorkHere\03-Python\3\Challenge\Starter_Code\main.py\main.py", line 15, in <module>
+    with open(csvpath, newline='') as csvfile:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '..\\Paybank\\Resources\\budget_data.csv'
+(base)
+NORCALWASTE+JGonzalez3@Recology_Johnn MINGW64 ~/Documents/DataBCampWorkHere/03-Python/3/Challenge/Starter_Code/main.py
+$ python main.py
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $22564198
+Average Change: $-8311.11
+Greatest Increase in Profits: Aug-16 ($1862002)
+Greatest Decrease in Profits: Feb-14 ($-1825558)
+(base)
+NORCALWASTE+JGonzalez3@Recology_Johnn MINGW64 ~/Documents/DataBCampWorkHere/03-Python/3/Challenge/Starter_Code/main.py
+$ https://bootcampspot.instructure.com/courses/5095/assignments/72087?module_item_id=1191697
